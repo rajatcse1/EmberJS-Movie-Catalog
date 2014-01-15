@@ -1,0 +1,3 @@
+Rest reference:
+
+https://github.com/raqqa/node-tmdb/blob/master/lib/tmdb.js
